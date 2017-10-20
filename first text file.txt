@@ -1,8 +1,5 @@
 Ankit Singh
-<<<<<<< HEAD
-Deepak Singh
-=======
 Deepak Singh
 Rajeev Singh
 Ajay Singh
->>>>>>> 0cbb1f1... adding new name
+
