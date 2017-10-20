@@ -1,5 +1,9 @@
 Ankit Singh
 Deepak Singh
 Rajeev Singh
+<<<<<<< HEAD
 Ajay Singh
 
+=======
+Ajay Singh
+>>>>>>> master
