@@ -1,9 +1,7 @@
 Ankit Singh
 Deepak Singh
 Rajeev Singh
-<<<<<<< HEAD
-Ajay Singh
 
-=======
 Ajay Singh
->>>>>>> master
+i am not adding name again
+>>>>>>> 9197336... just written a message
